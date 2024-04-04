@@ -4,8 +4,6 @@
     "version": "1.2.0",
     "main": "index.astro",
     "private": false,
-    "author": "chrstnl",
-    "homepage": "https://www.chrstnl.com/",
     "scripts": {
         "dev": "astro dev",
         "start": "astro dev",
@@ -14,7 +12,6 @@
         "astro": "astro"
     },
     "dependencies": {
-        "@astrojs/image": "^0.16.6",
         "@astrojs/rss": "^2.3.2",
         "@astrojs/sitemap": "^1.2.2",
         "@astrojs/tailwind": "^3.1.1",
@@ -31,10 +28,8 @@
         "autoprefixer": "^10.4.13",
         "eslint": "^8.36.0",
         "eslint-config-prettier": "^8.8.0",
-        "mdast-util-to-string": "^3.1.0",
         "postcss": "^8.4.21",
         "prettier": "2.8.6",
-        "sharp": "^0.31.3",
         "stylelint": "^14.16.1"
     }
 }
